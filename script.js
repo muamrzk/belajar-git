@@ -5,4 +5,4 @@ function hello(name){
     return `Hello, ${name}!`;
 }
 
-console.log(hello('mUamMaR rIzKI'));
+console.log(hello('mUamMa'));
