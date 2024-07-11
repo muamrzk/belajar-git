@@ -1,0 +1,5 @@
+Repository : Folder tempat menaruh project.
+Branch :
+Merge : Menggabungkan beberapa branch menjadi satu
+Push : Mengupload commit ke repository
+Pull : Mengambil commit dari repository
